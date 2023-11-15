@@ -1,0 +1,55 @@
+{
+  "thingsToDo": [
+    {
+      "category": "Outdoor Activities",
+      "activities": [
+        "Go for a hike in a nearby park",
+        "Have a picnic in a scenic spot",
+        "Try geocaching in your area",
+        "Play a sport with friends (soccer, basketball, etc.)",
+        "Go for a bike ride in the countryside"
+      ]
+    },
+    {
+      "category": "Indoor Activities",
+      "activities": [
+        "Learn a new instrument",
+        "Try a new recipe and cook a meal",
+        "Start a DIY craft or art project",
+        "Read a book you've been meaning to read",
+        "Learn a new language with language learning apps",
+        "Sleep😒"
+      ]
+    },
+    {
+      "category": "Entertainment",
+      "activities": [
+        "Watch a documentary on a topic you're interested in",
+        "Explore new music genres or artists",
+        "Have a movie marathon with favorite films",
+        "Attend a local theater or comedy show",
+        "Play video games or try new board games"
+      ]
+    },
+    {
+      "category": "Mind and Body",
+      "activities": [
+        "Practice meditation or yoga",
+        "Take a nature walk for mindfulness",
+        "Start a journal or blog about your thoughts",
+        "Learn and practice a new form of exercise",
+        "Join a local fitness class or sports league"
+      ]
+    },
+    {
+      "category": "Social and Networking",
+      "activities": [
+        "Plan a game night with friends or family",
+        "Attend a meetup or social event",
+        "Volunteer for a local charity or community project",
+        "Join a club or organization related to your interests",
+        "Connect with old friends and arrange a get-together"
+      ]
+    }
+  ]
+}
